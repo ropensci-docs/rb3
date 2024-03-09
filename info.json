@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f23e08bed98d0ab0be876187f3ee5ea2ebc61ce5",
+    "author": "Wilson Freitas <wilson.freitas@gmail.com>",
+    "time": "2023-09-11 00:00:46",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #63 from wilsonfreitas/main\n\nAdded _PACKAGE keyword"
+  },
+  "repo": "https://github.com/ropensci/rb3",
+  "pkg": "rb3"
+}
