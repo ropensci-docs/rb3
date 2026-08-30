@@ -1,0 +1,13 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  Fetching-historical-equity-data: Fetching-historical-equity-data.html
+  Fetching-historical-future-rates: Fetching-historical-future-rates.html
+  Fetching-historical-index-data: Fetching-historical-index-data.html
+  Fetching-historical-yield-curve: Fetching-historical-yield-curve.html
+  Getting-started: Getting-started.html
+last_built: 2026-08-30T08:11Z
+urls:
+  reference: https://docs.ropensci.org/rb3/reference
+  article: https://docs.ropensci.org/rb3/articles

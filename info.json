@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "ef11508519ac018491b3d3d4e348ceb23ee191de",
+    "author": "Wilson Freitas <wilson.freitas@gmail.com>",
+    "time": "2025-11-01T11:06:29Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #122 from miceli/main\n\nUpdate scraper-cotahist.R"
+  },
+  "repo": "https://github.com/ropensci/rb3",
+  "pkg": "rb3",
+  "time": "2026-08-30T08:12:08Z"
+}
