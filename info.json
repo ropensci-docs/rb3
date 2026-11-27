@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8e0737ae169f409bb4731e7d97009e367d5a93c6",
+    "author": "Wilson Freitas <wilson.freitas@gmail.com>",
+    "time": "2026-11-27T11:15:07Z",
+    "files": 5,
+    "merge": true,
+    "message": "Merge pull request #159 from wilsonfreitas/test/vcr-downloaders\n\ntests: replay the TS download from a vcr cassette; rename README section"
+  },
+  "repo": "https://github.com/ropensci/rb3",
+  "pkg": "rb3",
+  "time": "2026-11-27T12:42:45Z"
+}
